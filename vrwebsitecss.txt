@@ -1,0 +1,257 @@
+@import url('https:y=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image {
+    height: 40px;
+    width: 50px;
+    ;
+}
+
+#item1 {
+    color: dark;
+    font-weight: bold;
+}
+
+#item2 {
+    color: dark;
+    font-weight: bold;
+}
+
+#item3 {
+    color: dark;
+    font-weight: bold;
+}
+
+#item4 {
+    color: dark;
+    font-weight: bold;
+}
+
+.bg-container-banner {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    font-family: roboto;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.button {
+    color: white;
+    font-size: 14px;
+    background-color: #1a2137;
+    height: 40px;
+    width: 100px;
+    border-width: 0px;
+}
+
+.card1 {
+    text-align: center;
+}
+
+.img {
+    height: 60px;
+    width: 70px;
+}
+
+.main-container {
+    padding: 10px;
+}
+
+.features {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card1-heading {
+    font-size: 20px;
+}
+
+.card1-description {
+    color: #7b8794;
+}
+
+.black {
+    color: #1f2933;
+    font-weight: bold;
+
+}
+
+.bg-container-vr-kit {
+    height: 80vh;
+}
+
+@media screen and (min-width:768px) {
+    .bg-container-vr-kit {
+        height: 50vh;
+    }
+}
+
+.h1 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.img {
+    height: 170px;
+    width: 160px;
+}
+
+.img-heading {
+    font-size: 20px;
+}
+
+.card1 {
+    text-align: center;
+}
+
+.bg.container-controller {
+    background-color: white;
+    height: 160vh;
+
+}
+
+.img-controller {
+    height: 250px;
+    width: 100%;
+}
+
+.heading-controller {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.description-controller {
+    color: #7b8794;
+}
+
+.bg-container-virtually {
+    background-color: #222b36;
+    padding: 20px;
+}
+
+.img {
+    height: 150px;
+    width: 200px;
+}
+
+.h1 {
+    color: white;
+    font-size: 30px;
+}
+
+.button {
+    color: white;
+    background-color: #222b36;
+    border-width: 1px;
+    padding: 10px;
+    border-color: white;
+}
+
+
+.bg-container-trending {
+    background-color: white;
+    padding: 10px;
+    height: 150vh;
+    margin-bottom: 20px;
+}
+
+@media screen and (min-width:768px) {
+    .bg-container-trending {
+        background-color: white;
+        padding: 10px;
+        height: 80vh;
+        margin-bottom: 20px;
+    }
+}
+
+.img4 {
+    height: 200px;
+    width: 280px;
+}
+
+.description {
+    font-weight: bold;
+}
+
+.h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.p1 {
+    color: #959ead;
+}
+
+.card1 {
+    background-color: white;
+}
+
+.sym {
+    color: blue;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #1754a1;
+    font-size: 14px;
+    color: white;
+    height: 35px;
+    width: 110px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.last {
+    text-align: right;
+}
+
+.footer-container {
+    background-color: #19232d;
+    height: 100vh;
+}
+
+.img {
+    height: 50px;
+    width: 70px;
+}
+
+.google-image {
+    color: #959ead;
+    font-size: 14px;
+    background-color: #202b36;
+    border-radius: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.address {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.contact-us {
+    color: #5a7184;
+    font-size: 24px;
+}
+
+p {
+    color: #517184;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.image-icon {
+    color: #959ead;
+    font-size: 14px;
+}
+
+.vr-footer-line-color {
+    background-color: #5a7184;
+
+}
